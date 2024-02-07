@@ -11,11 +11,17 @@ Time frame: 1980 - 2021
 Records: 11,570,188
 File size: 36,762,558 bytes (943,967,046 bytes uncompressed)
 Number of files: 42
+
 Location: s3://emd-coding-challenge/covid-19-aqi/aqi/daily_aqi_by_county_1980.csv.bz2 to s3://emd-coding-challenge/covid-19-aqi/aqi/daily_aqi_by_county_2021.csv.bz2
+
 COVID-19 Case Surveillance Public Use Data with Geography
+
 Time frame: 2020-01-01 to 2021-11-09
+
 Records: 37,532,072
+
 File size: 109,903,673 bytes (5,304,693,020 bytes uncompressed)
+
 Location: s3://emd-coding-challenge/covid-19-aqi/covid19/cases.csv.bz2
 
 # Questions Answered
